@@ -1,1 +1,1 @@
-# World_Weather_Analysis
+In this challenge, we will be looking at the relationship between several variables and latitude. Is there a relationship with humidity? What about cloudiness. We will find out. We will also be tasked to find the best vacation spot based on several of these parameters with the code. 
